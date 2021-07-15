@@ -1,0 +1,6 @@
+@using DEVIO.PrimeiroProjeto.Data 
+@inject IPedidoRepository PedidoRepository
+
+<h1>
+    @PedidoRepository.ObterPedido().Id
+</h1>

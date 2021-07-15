@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery-validate@1.19.3",
+      "destination": "lib\\jquery-validate"
+    },
+    {
+      "library": "jquery@3.6.0",
+      "destination": "lib\\jquery"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.12",
+      "destination": "lib\\jquery-validation-unobtrusive"
+    },
+    {
+      "library": "twitter-bootstrap@5.0.2",
+      "destination": "lib\\bootstrap"
+    },
+    {
+      "library": "font-awesome@5.15.3",
+      "destination": "lib\\font-awesome"
+    }
+  ]
+}
